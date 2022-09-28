@@ -22,7 +22,7 @@ namespace GateWayApi.Services
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Post,
-                RequestUri = new Uri(sales_Baseurl +"api/sales/sales1"),
+                RequestUri = new Uri(sales_Baseurl+"api/sales/sales1"),
                 Content = new StringContent(json)
                 {
                     Headers =
