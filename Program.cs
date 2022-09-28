@@ -9,7 +9,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddCors(options => options.AddPolicy("corspolicy", build =>
 {
-    build.WithOrigins("http://localhost:3000").AllowAnyHeader().AllowAnyMethod();
+    build.WithOrigins("http://localhost:3000", "https://informatica-aplicada.github.io/frontend").AllowAnyHeader().AllowAnyMethod();
 }));
 
 var app = builder.Build();
