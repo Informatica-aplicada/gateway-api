@@ -10,6 +10,9 @@ namespace GateWayApi.Services
 {
     public class SalesReport
     {
+
+        string sales_Baseurl = "https://sales-microservice.azurewebsites.net/";
+        string person_Baseurl = "https://person-microservices.azurewebsites.net/";
         public async Task<List<Register>>  salesReport([FromBody] int[] year) {
 
             List<Register> list = new List<Register>();
@@ -19,7 +22,7 @@ namespace GateWayApi.Services
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Post,
-                RequestUri = new Uri("http://localhost:5402/api/sales/sales1"),
+                RequestUri = new Uri(sales_Baseurl +"api/sales/sales1"),
                 Content = new StringContent(json)
                 {
                     Headers =
@@ -50,7 +53,7 @@ namespace GateWayApi.Services
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Post,
-                RequestUri = new Uri("http://localhost:5402/api/sales/sales2"),
+                RequestUri = new Uri(sales_Baseurl+"api/sales/sales2"),
                 Content = new StringContent(json)
                 {
                     Headers =
@@ -80,7 +83,7 @@ namespace GateWayApi.Services
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Post,
-                RequestUri = new Uri("http://localhost:5401/api/person/auth"),
+                RequestUri = new Uri(person_Baseurl+"api/person/auth"),
                 Content = new StringContent(json)
                 {
                     Headers =
