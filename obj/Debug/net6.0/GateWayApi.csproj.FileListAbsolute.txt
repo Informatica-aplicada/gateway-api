@@ -1,0 +1,121 @@
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\GateWayApi.exe
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\GateWayApi.deps.json
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\GateWayApi.runtimeconfig.json
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\GateWayApi.dll
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\GateWayApi.pdb
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.csproj.AssemblyReference.cache
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.AssemblyInfoInputs.cache
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.AssemblyInfo.cs
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\scopedcss\bundle\GateWayApi.styles.css
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.csproj.CopyComplete
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.dll
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\refint\GateWayApi.dll
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.pdb
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.genruntimeconfig.cache
+C:\Users\Steve\Mi unidad (steverova0594@gmail.com)\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\ref\GateWayApi.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.csproj.AssemblyReference.cache
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.AssemblyInfoInputs.cache
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.AssemblyInfo.cs
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\refint\GateWayApi.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.pdb
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\GateWayApi.exe
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\GateWayApi.deps.json
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\GateWayApi.runtimeconfig.json
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\GateWayApi.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\GateWayApi.pdb
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\scopedcss\bundle\GateWayApi.styles.css
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.csproj.CopyComplete
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\GateWayApi.genruntimeconfig.cache
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\GateWayApi\obj\Debug\net6.0\ref\GateWayApi.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\GateWayApi.exe
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\GateWayApi.deps.json
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\GateWayApi.runtimeconfig.json
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\GateWayApi.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\GateWayApi.pdb
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\GateWayApi.csproj.AssemblyReference.cache
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\GateWayApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\GateWayApi.AssemblyInfoInputs.cache
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\GateWayApi.AssemblyInfo.cs
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\GateWayApi.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\GateWayApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\GateWayApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\scopedcss\bundle\GateWayApi.styles.css
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\GateWayApi.csproj.CopyComplete
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\GateWayApi.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\refint\GateWayApi.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\GateWayApi.pdb
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\GateWayApi.genruntimeconfig.cache
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\obj\Debug\net6.0\ref\GateWayApi.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\Steve\Documents\git\microservicios\GateWayApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\GateWayApi.exe
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\GateWayApi.deps.json
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\GateWayApi.runtimeconfig.json
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\GateWayApi.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\GateWayApi.pdb
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\GateWayApi.csproj.AssemblyReference.cache
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\GateWayApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\GateWayApi.AssemblyInfoInputs.cache
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\GateWayApi.AssemblyInfo.cs
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\GateWayApi.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\GateWayApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\GateWayApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\scopedcss\bundle\GateWayApi.styles.css
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\GateWayApi.csproj.CopyComplete
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\GateWayApi.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\refint\GateWayApi.dll
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\GateWayApi.pdb
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\GateWayApi.genruntimeconfig.cache
+C:\Users\Steve\Documents\git\team-work\GateWayApi\obj\Debug\net6.0\ref\GateWayApi.dll
