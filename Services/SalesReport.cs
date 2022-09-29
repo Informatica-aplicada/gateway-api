@@ -87,7 +87,7 @@ namespace GateWayApi.Services
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Post,
-                RequestUri = new Uri(sales_Baseurl+"api/sales/sales3"),
+                RequestUri = new Uri(sales_Baseurl + "api/sales/sales3"),
                 Content = new StringContent(json)
                 {
                     Headers =
