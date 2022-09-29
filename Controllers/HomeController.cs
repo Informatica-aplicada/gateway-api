@@ -46,9 +46,10 @@ namespace GateWayApi.Controllers
         [HttpGet("/")]
         public string index(){
             string info =
-            "api gateway \n"+ 
+            "api gateway actualizó \n"+ 
             "sales = https://sales-microservice.azurewebsites.net/ \n"+
             "person = https://person-microservices.azurewebsites.net/";
+             
             return info;
         }
     }
