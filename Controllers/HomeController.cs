@@ -27,6 +27,14 @@ namespace GateWayApi.Controllers
             return await services.salesReport2(year);
         }
 
+        [HttpPost("report3")]
+        public async Task<List<Register3>> report3([FromBody] int[] year)
+        {
+            Console.WriteLine("api/home/report3");
+            Console.WriteLine(year);
+             return await services.salesReport3(year);
+        }
+
         [HttpPost("auth")]
         public async Task<UserModel> auth(LoginCredentials auth)
         {
