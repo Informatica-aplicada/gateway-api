@@ -10,7 +10,7 @@ namespace GateWayApi.Controllers
 {
     [Route("api/home")]
     [ApiController]
-    // [Authorize]
+    //[Authorize]
     public class HomeController : ControllerBase
     {
         private SalesReport services = new SalesReport();
