@@ -5403,19 +5403,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DayanDiaz\\.nuget\\packages\\": {}
+    "C:\\Users\\Steve\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DayanDiaz\\Desktop\\Informatica Aplicada\\Proyecto\\gateway-api\\GateWayApi.csproj",
+      "projectUniqueName": "C:\\Users\\Steve\\Documents\\organizacion-info\\gateway-api\\GateWayApi.csproj",
       "projectName": "GateWayApi",
-      "projectPath": "C:\\Users\\DayanDiaz\\Desktop\\Informatica Aplicada\\Proyecto\\gateway-api\\GateWayApi.csproj",
-      "packagesPath": "C:\\Users\\DayanDiaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DayanDiaz\\Desktop\\Informatica Aplicada\\Proyecto\\gateway-api\\obj\\",
+      "projectPath": "C:\\Users\\Steve\\Documents\\organizacion-info\\gateway-api\\GateWayApi.csproj",
+      "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Steve\\Documents\\organizacion-info\\gateway-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DayanDiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
