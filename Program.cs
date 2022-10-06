@@ -22,25 +22,25 @@ builder.Services.AddCors(options => options.AddPolicy("corspolicy", build =>
 //builder.Configuration.AddJsonFile("appsettings.json");
 //var key = builder.Configuration.GetSection("Jwt").GetSection("Key").ToString();
 
-var key = "infoAplicadaSecretKey123!";
+// var key = "infoAplicadaSecretKey123!";
 
-builder.Services.AddAuthentication(x =>
-{
+// builder.Services.AddAuthentication(x =>
+// {
 
-    x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-    x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-}).AddJwtBearer(x =>
-{
-    x.RequireHttpsMetadata = false;
-    x.SaveToken = true;
-    x.TokenValidationParameters = new TokenValidationParameters
-    {
-        ValidateIssuerSigningKey = true,
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(key)),
-        ValidateIssuer = false,
-        ValidateAudience = false
-    };
-});
+//     x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+//     x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+// }).AddJwtBearer(x =>
+// {
+//     x.RequireHttpsMetadata = false;
+//     x.SaveToken = true;
+//     x.TokenValidationParameters = new TokenValidationParameters
+//     {
+//         ValidateIssuerSigningKey = true,
+//         IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(key)),
+//         ValidateIssuer = false,
+//         ValidateAudience = false
+//     };
+// });
 
 var app = builder.Build();
 app.UseCors("corspolicy");
