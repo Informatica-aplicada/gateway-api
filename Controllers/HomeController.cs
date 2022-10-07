@@ -2,6 +2,7 @@
 using GateWayApi.Models;
 using GateWayApi.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -9,6 +10,7 @@ namespace GateWayApi.Controllers
 {
     [Route("api/home")]
     [ApiController]
+    //[Authorize]
     public class HomeController : ControllerBase
     {
         private SalesReport services = new SalesReport();
@@ -34,14 +36,6 @@ namespace GateWayApi.Controllers
             Console.WriteLine(year);
              return await services.salesReport3(year);
         }
-
-        [HttpPost("auth")]
-        public async Task<UserModel> auth(LoginCredentials auth)
-        {
-            Console.WriteLine(auth);
-            return await services.auth(auth);
-        }
-
 
         [HttpGet("/")]
         public string index(){

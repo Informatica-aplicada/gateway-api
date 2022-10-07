@@ -8,5 +8,8 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1"/>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3"/>
     <PackageReference Include="Microsoft.AspNet.WebApi.Cors" Version="5.2.9"/>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.23.1"/>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.23.1"/>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.9"/>
   </ItemGroup>
 </Project>
