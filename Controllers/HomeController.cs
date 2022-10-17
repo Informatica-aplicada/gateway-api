@@ -13,7 +13,12 @@ namespace GateWayApi.Controllers
     //[Authorize]
     public class HomeController : ControllerBase
     {
-        private SalesReport services = new SalesReport();
+        private readonly IGateW services;
+
+        public PersonController(IGateW services)
+        {
+            this.services = services;
+        }
 
         [HttpPost("report1")]
         public async Task<List<Register>> report([FromBody] int[] year)
