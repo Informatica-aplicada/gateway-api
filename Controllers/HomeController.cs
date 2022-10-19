@@ -1,5 +1,4 @@
-﻿using apiPersonaNet.Models;
-using GateWayApi.Models;
+﻿using GateWayApi.Models;
 using GateWayApi.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
@@ -34,16 +33,25 @@ namespace GateWayApi.Controllers
         {
             Console.WriteLine("api/home/report3");
             Console.WriteLine(year);
-             return await services.salesReport3(year);
+            return await services.salesReport3(year);
+        }
+
+        [HttpPost("listEmail")]
+        public async Task<List<PersonEmail>> listEmail([FromBody] int[] id)
+        {
+            Console.WriteLine("api/home/report3");
+        
+            return await services.listemail(id[0]);
         }
 
         [HttpGet("/")]
-        public string index(){
+        public string index()
+        {
             string info =
-            "api gateway actualizó x 2 \n"+ 
-            "sales = https://sales-microservice.azurewebsites.net/ \n"+
+            "api gateway actualizó x 2 \n" +
+            "sales = https://sales-microservice.azurewebsites.net/ \n" +
             "person = https://person-microservices.azurewebsites.net/";
-             
+
             return info;
         }
     }

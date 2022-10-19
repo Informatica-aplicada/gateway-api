@@ -5,6 +5,8 @@ using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 
+using GateWayApi.Services;
+using GateWayApi.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -41,6 +43,8 @@ builder.Services.AddCors(options => options.AddPolicy("corspolicy", build =>
 //         ValidateAudience = false
 //     };
 // });
+
+builder.Services.AddSingleton <IGateWay,SalesReport>();
 
 var app = builder.Build();
 app.UseCors("corspolicy");

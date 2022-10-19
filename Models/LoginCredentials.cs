@@ -1,6 +1,6 @@
 using System;
 
-namespace apiPersonaNet.Models
+namespace GateWayApi.Models
 {
     public class LoginCredentials
     {
