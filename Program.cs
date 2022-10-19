@@ -16,7 +16,11 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddCors(options => options.AddPolicy("corspolicy", build =>
 {
-    build.WithOrigins("http://localhost:3000", "https://informatica-aplicada.github.io").AllowAnyHeader().AllowAnyMethod();
+    build.WithOrigins(
+        "http://localhost:3000",
+        "http://localhost:3001",
+        "http://localhost:3002", 
+        "https://informatica-aplicada.github.io").AllowAnyHeader().AllowAnyMethod();
 }));
 
 //builder.Configuration.AddJsonFile("appsettings.json");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steve\\Documents\\organizacion-info\\gateway-api\\GateWayApi.csproj": {}
+    "C:\\Users\\Steve\\Documents\\Github\\info-aplicada\\gateway-api\\GateWayApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steve\\Documents\\organizacion-info\\gateway-api\\GateWayApi.csproj": {
+    "C:\\Users\\Steve\\Documents\\Github\\info-aplicada\\gateway-api\\GateWayApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steve\\Documents\\organizacion-info\\gateway-api\\GateWayApi.csproj",
+        "projectUniqueName": "C:\\Users\\Steve\\Documents\\Github\\info-aplicada\\gateway-api\\GateWayApi.csproj",
         "projectName": "GateWayApi",
-        "projectPath": "C:\\Users\\Steve\\Documents\\organizacion-info\\gateway-api\\GateWayApi.csproj",
+        "projectPath": "C:\\Users\\Steve\\Documents\\Github\\info-aplicada\\gateway-api\\GateWayApi.csproj",
         "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steve\\Documents\\organizacion-info\\gateway-api\\obj\\",
+        "outputPath": "C:\\Users\\Steve\\Documents\\Github\\info-aplicada\\gateway-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AspNetCore.Middleware.HttpStatusCodeException": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Hl7.Fhir.Support": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
             "Microsoft.AspNet.WebApi.Cors": {
               "target": "Package",
               "version": "[5.2.9, )"
@@ -47,6 +55,10 @@
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[6.0.9, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
@@ -63,6 +75,10 @@
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[6.23.1, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
             }
           },
           "imports": [
@@ -84,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

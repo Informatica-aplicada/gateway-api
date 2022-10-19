@@ -11,8 +11,8 @@ namespace GateWayApi.Services
     public class SalesReport
     {
 
-        string sales_Baseurl = "https://sales-microservice.azurewebsites.net/";
-        string person_Baseurl = "https://person-microservices.azurewebsites.net/";
+        string sales_Baseurl = "https://localhost:7002/";
+        string person_Baseurl = "https://localhost:7001/";
         public async Task<List<Register>> salesReport([FromBody] int[] year)
         {
 
@@ -139,4 +139,6 @@ namespace GateWayApi.Services
         }
 
     }
+
+    
 }
