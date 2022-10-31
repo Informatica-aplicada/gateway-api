@@ -21,8 +21,12 @@ namespace GateWayApi.Services
 
         public async Task<List<UserModel>> requestAPi(string url)
         {
+
+            HttpClientHandler clientHandler = new HttpClientHandler();
+            clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
+            
             List<UserModel> list = new List<UserModel>();
-            var client = new HttpClient();
+            var client = new HttpClient(clientHandler);
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Get,
@@ -39,7 +43,10 @@ namespace GateWayApi.Services
 
         public async Task<string> add(UserModel userdata)
         {
-            var client = new HttpClient();
+
+            HttpClientHandler clientHandler = new HttpClientHandler();
+            clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
+            var client = new HttpClient(clientHandler);
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Post,
@@ -73,7 +80,10 @@ namespace GateWayApi.Services
 
             // return response.ToString();
 
-            var client = new HttpClient();
+            HttpClientHandler clientHandler = new HttpClientHandler();
+            clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
+
+            var client = new HttpClient(clientHandler);
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Delete,
